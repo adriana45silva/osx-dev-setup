@@ -7,7 +7,7 @@ clear
 
 
 echo '----------------------------------------------------------------------------------------'
-echo 'OSX DEVELOPMENT SETUP - INSTALATION BASH \n\n'
+echo 'OSX DEVELOPMENT SETUP - INSTALATION BASH'
 echo '----------------------------------------------------------------------------------------'
 
 
