@@ -121,20 +121,14 @@ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.1/install.sh | b
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 
 echo '----------------------------------------------------------------------------------------'
-echo 'INSTALLING NODE VERSIONS 7.5.2'
+echo 'INSTALLING STABLE NODE VERSION'
 echo '----------------------------------------------------------------------------------------'
 
-nvm install 7.5.2
-
-echo '----------------------------------------------------------------------------------------'
-echo 'INSTALLING NODE VERSIONS 5.12.0'
-echo '----------------------------------------------------------------------------------------'
-
-nvm install 5.12.0
+nvm install stable
 
 echo '----------------------------------------------------------------------------------------'
 echo 'SETTING DEFAULT NODE VERSION'
 echo '----------------------------------------------------------------------------------------'
 
-nvm alias default 7.5.2
+nvm alias default stable
 
