@@ -3,7 +3,7 @@ Simple bash file to install some dev tools to OSX environments
 
 Inspired by [jessfraz's Mac OS X Dev Setup](https://github.com/jessfraz/mac-dev-setup)
 
-Included tools:
+**Included tools:**
 
 - Xcode Command Line Tools
 - Homebrew
