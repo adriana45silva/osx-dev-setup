@@ -7,6 +7,12 @@ Included tools:
 
 - Xcode Command Line Tools
 - Homebrew
+- Homebrew Cask
+- Google Chrome
+- Firefox
+- Visual Studio Code
+- Postman
+- iTerm2
 - GIT
 - RVM
 - Rails
@@ -23,3 +29,15 @@ Included tools:
 - NVM
 - Node
   - Latest stable
+
+
+**Give permissions**
+
+    chmod +x
+
+**Installation**
+
+    $ ./osx-dev-setup.bash
+
+
+Enjoy!
