@@ -17,9 +17,12 @@ Inspired by [jessfraz's Mac OS X Dev Setup](https://github.com/jessfraz/mac-dev-
 - RVM
 - Rails
 - Ruby 
-  - 2.1.1
+  - 1.9.0
   - 2.0.0
-  - 1.9.3
+  - 2.1.1
+  - 2.2.0
+  - 2.3.0
+
 - Bundler
 - Middleman
 - Heroku Toolbelt
