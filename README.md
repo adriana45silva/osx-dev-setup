@@ -1,7 +1,7 @@
 # osx-dev-setup
 Simple bash file to install some dev tools to OSX environments
 
-Inspired by jessfraz's Mac OS X Dev Setup - https://github.com/jessfraz/mac-dev-setup
+Inspired by [jessfraz's Mac OS X Dev Setup](https://github.com/jessfraz/mac-dev-setup)
 
 Included tools:
 
@@ -11,9 +11,9 @@ Included tools:
 - RVM
 - Rails
 - Ruby 
- - 2.1.1
- - 2.0.0
- - 1.9.3
+  - 2.1.1
+  - 2.0.0
+  - 1.9.3
 - Bundler
 - Middleman
 - Heroku Toolbelt
@@ -22,5 +22,4 @@ Included tools:
 - MongoDB
 - NVM
 - Node
- - 5.12.0
- - 7.5.2
+  - Latest stable
